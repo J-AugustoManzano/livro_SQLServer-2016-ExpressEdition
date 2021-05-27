@@ -1,4 +1,4 @@
-# Livro: Microsoft SQL Server 2016 Express Edition Interativo
+# Livro: Microsoft SQL Server 2016 Express Edition - Interativo
 
 Esta obra apresenta de forma prática e aplicada as bases de trabalho da linguagem de consulta estruturada SQL, padrão Transact-SQL, utilizada no gerenciador de banco de dados relacional SQL Server 2016 Express Edition, desenvolvido e comercializado pela empresa Microsoft para iniciantes e estudantes de cursos técnicos, tecnológicos e de graduação da área de Tecnologia da Informação que tenham necessidade de usar programas de gerenciamento de bancos de dados. Para o estudo aqui apresentado, parte-se do pressuposto de que o público-alvo desta obra possui conhecimentos básicos de fundamentos de bancos de dados. Este trabalho pode ser utilizado por autodidatas, embora seu objetivo seja a utilização em sala de aula (laboratório), com o acompanhamento de um professor ou instrutor devidamente habilitado para a tarefa.
 
